@@ -10,16 +10,19 @@ Built with: Next.js, React, PostgreSQL, AWS (RDS, Lambda, EventBridge, Amplify, 
 **[PressBoxBlog](https://pressboxblog.com)** — Sports blog platform with user registration, authentication, and content management.  
 Built with: Python, Django, PostgreSQL, HTML/CSS
 
+**[Weather Dashboard](https://lab-2-ahlersn13.onrender.com/)** — Weather lookup app that fetches real-time weather data by city using the OpenWeatherMap API.  
+Built with: JavaScript, React, REST APIs
+
 ## Tech Stack
 
 **Languages:** JavaScript, Python, SQL, HTML, CSS  
 **Frameworks:** React, Next.js, Django, Node.js  
-**Cloud & Infrastructure:** AWS (RDS, Lambda, EventBridge, Amplify, Route 53)  
+**Cloud & Infrastructure:** AWS (RDS, Lambda, EventBridge, Amplify, Route 53), Render  
 **Tools:** Git, Power BI, Tableau, Salesforce, SAP  
 
 ## Certifications
 
-- CompTIA A+ 
+- CompTIA A+
 - CompTIA Security+
 - CompTIA Network+
 

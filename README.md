@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Nick Ahlers
 
-<!--
-**ahlersn13/ahlersn13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT professional transitioning into tech with a background in digital solutions, systems implementation, and data analysis. Currently pursuing a Master of Science in Information Technology (Cybersecurity Focus) at Franklin University while building full-stack applications.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Odds-Edge](https://odds-edge.com)** — Full-stack sports betting odds comparison app that aggregates real-time spread data across major sportsbooks for 8 sports. Features a tiered cron system that optimizes API call frequency based on game proximity.  
+Built with: Next.js, React, PostgreSQL, AWS (RDS, Lambda, EventBridge, Amplify, Route 53)
+
+**[PressBoxBlog](https://pressboxblog.com)** — Sports blog platform with user registration, authentication, and content management.  
+Built with: Python, Django, PostgreSQL, HTML/CSS
+
+## Tech Stack
+
+**Languages:** JavaScript, Python, SQL, HTML, CSS  
+**Frameworks:** React, Next.js, Django, Node.js  
+**Cloud & Infrastructure:** AWS (RDS, Lambda, EventBridge, Amplify, Route 53)  
+**Tools:** Git, Power BI, Tableau, Salesforce, SAP  
+
+## Certifications
+
+- CompTIA A+ 
+- CompTIA Security+
+- CompTIA Network+
+
+## Connect
+
+- Email: ahlersn13@gmail.com
+- GitHub: [github.com/ahlersn13](https://github.com/ahlersn13)
